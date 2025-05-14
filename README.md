@@ -1,7 +1,6 @@
 
-This Laundry Reservation System is a full-stack web application I developed as part of my academic and personal learning journey. 
-It allows users to book laundry services online with pickup and delivery options.The project showcases the ability to build a complete solution, 
-including frontend design, backend integration, database management, and third-party API usage — all done with a focus on clean UI/UX and responsive design.
+Developed as part of my academic and personal learning path, this Laundry Reservation System is a full-stack web application. It lets people schedule laundry services online with pickup and delivery preferences.
+The project demonstrates the capability to provide a comprehensive solution, encompassing frontend design, backend integration, database administration, and third-party API utilization, all executed with an emphasis on clean UI/UX and responsive design.
 
 🛠️ Tech Stack
 
